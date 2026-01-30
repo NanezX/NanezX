@@ -26,6 +26,26 @@ I'm passionate about **side projects** and believe in **never stopping learning*
 
 ---
 
+## 🎯 Key Differentiators
+
+- **Full-Stack to Production** — Not just code, but deployment. I set up CI/CD, Docker, and full infrastructure to keep applications running.
+- **Web3 Foundations** — Deep understanding of the EVM and smart contract development from the ecosystem's early growth.
+- **AI/LLM Integration Specialist** — Expertise in bridging applications with language models, from local Ollama setups to cloud APIs.
+- **Continuous Learning** — I am constantly reading and experimenting with new tech to stay at the cutting edge.
+- **Bilingual Professional** — Fluent in English (C1) and Spanish, effectively communicating across global, distributed teams.
+
+---
+
+## 🏆 Proven Works
+
+- **Optimized Smart Contracts** — Engineered gas-efficient Solidity code and robust NFT collections for production environments.
+- **Scalable Web Infrastructures** — Developed and maintained full-stack applications supporting thousands of concurrent users.
+- **High-Performance LLM Implementation** — Successfully optimized and handled local LLM deployments (Ollama).
+- **EVM Expertise** — Advanced understanding of Ethereum Virtual Machine internals, indexing blockchain data with subgraphs, and managing complex state.
+- **Automated DevOps Workflows** — Streamlined developer experience by implementing Nix-based environments and multi-platform CI/CD pipelines.
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Frontend
@@ -86,12 +106,12 @@ I'm passionate about **side projects** and believe in **never stopping learning*
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NanezX&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NanezX&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NanezX&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=6366F1&icon_color=6366F1&cache_seconds=86400" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NanezX&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=6366F1&cache_seconds=86400" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NanezX&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NanezX&theme=tokyonight&hide_border=true&background=00000000&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&cache_seconds=86400" alt="GitHub Streak"/>
 </p>
 
 ---
