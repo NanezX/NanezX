@@ -104,19 +104,6 @@ I'm passionate about **side projects** and believe in **never stopping learning*
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NanezX&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=6366F1&icon_color=6366F1&cache_seconds=86400" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NanezX&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=6366F1&cache_seconds=86400" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NanezX&theme=tokyonight&hide_border=true&background=00000000&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&cache_seconds=86400" alt="GitHub Streak"/>
-</p>
-
----
-
 <p align="center">
   <i>💡 Open to collaborations on AI/LLM projects and interesting ideas!</i>
 </p>
