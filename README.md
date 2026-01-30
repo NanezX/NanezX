@@ -35,9 +35,9 @@ I'm passionate about **side projects** and believe in **never stopping learning*
 
 ## 🎯 Key Differentiators
 
+- **AI/LLM Integration Specialist** — Expertise in bridging applications with language models, from local Ollama setups to cloud APIs.
 - **Full-Stack to Production** — Not just code, but deployment. I set up CI/CD, Docker, and full infrastructure to keep applications running.
 - **Web3 Foundations** — Deep understanding of the EVM and smart contract development from the ecosystem's early growth.
-- **AI/LLM Integration Specialist** — Expertise in bridging applications with language models, from local Ollama setups to cloud APIs.
 - **Continuous Learning** — I am constantly reading and experimenting with new tech to stay at the cutting edge.
 - **Bilingual Professional** — Fluent in English (C1) and Spanish, effectively communicating across global, distributed teams.
 
@@ -45,9 +45,9 @@ I'm passionate about **side projects** and believe in **never stopping learning*
 
 ## 🏆 Proven Works
 
-- **Optimized Smart Contracts** — Engineered gas-efficient Solidity code and robust NFT collections for production environments.
-- **Scalable Web Infrastructures** — Developed and maintained full-stack applications supporting thousands of concurrent users.
 - **High-Performance LLM Implementation** — Successfully optimized and handled local LLM deployments (Ollama).
+- **Scalable Web Infrastructures** — Developed and maintained full-stack applications supporting thousands of concurrent users.
+- **Optimized Smart Contracts** — Engineered gas-efficient Solidity code and robust NFT collections for production environments.
 - **EVM Expertise** — Advanced understanding of Ethereum Virtual Machine internals, indexing blockchain data with subgraphs, and managing complex state.
 - **Automated DevOps Workflows** — Streamlined developer experience by implementing Nix-based environments and multi-platform CI/CD pipelines.
 
@@ -55,37 +55,21 @@ I'm passionate about **side projects** and believe in **never stopping learning*
 
 ## 🛠️ Tech Stack
 
-### Frontend
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
-![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=svelte&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
-<!-- ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) -->
+### AI / LLM
+
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
 
 ### Backend & API
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-
-### Blockchain / Web3
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
-![Foundry](https://img.shields.io/badge/Foundry-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black)
-![The Graph](https://img.shields.io/badge/The_Graph-6747ED?style=flat-square&logo=thegraph&logoColor=white)
-
-### AI / LLM
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
-
 ### DevOps & Tools
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -93,11 +77,8 @@ I'm passionate about **side projects** and believe in **never stopping learning*
 ![Nix](https://img.shields.io/badge/Nix-5277C3?style=flat-square&logo=nixos&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-### Desktop Apps
-![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
-![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white)
-
 ### Languages
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -107,6 +88,32 @@ I'm passionate about **side projects** and believe in **never stopping learning*
 ![Nix](https://img.shields.io/badge/Nix-5277C3?style=flat-square&logo=nixos&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+
+### Blockchain / Web3
+
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![Foundry](https://img.shields.io/badge/Foundry-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black)
+![The Graph](https://img.shields.io/badge/The_Graph-6747ED?style=flat-square&logo=thegraph&logoColor=white)
+
+### Desktop Apps
+
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white)
+
+### Frontend
+
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
 
 ---
 
