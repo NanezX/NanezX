@@ -11,6 +11,12 @@
 
 ---
 
+<p align="center">
+  <b><i>"I like code that simplifies things, automating to reduce stress and making time for coffee."</i></b> ☕
+</p>
+
+---
+
 ## 🧑‍💻 About Me
 
 I'm a **Systems Engineer** graduated from **Universidad de Oriente (UDO)** 🇻🇪 — one of the top universities in Venezuela. With **5+ years** of professional experience, I've worked across the full spectrum: from building **fullstack web applications** with modern frameworks, to setting up **DevOps pipelines** and CI/CD workflows, to diving deep into **Web3** smart contracts and dApps in my early career.
